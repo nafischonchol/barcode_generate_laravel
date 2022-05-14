@@ -9,6 +9,6 @@ class BarcodeController extends Controller
     //
     public function index()
     {
-      return view('product');
+      return view('show-barcode');
     }
 }
