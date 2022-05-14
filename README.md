@@ -1,1 +1,1 @@
-# barcode generate in laravel
+# barcode generate in laravel 9
